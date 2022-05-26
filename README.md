@@ -1,3 +1,3 @@
 ## tic-tac-toe
 
-![](https://i.imgur.com/yblKr1b.png)
+![](https://i.imgur.com/D9PqeSW.png)
